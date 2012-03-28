@@ -1,0 +1,21 @@
+
+The line is: add 50        		
+java.lang.NullPointerException
+
+The line is: VeryLongInt 35	
+Here is the VeryLongInt: [3, 5]
+
+The line is: factorial 45
+Here is the Factorial: [3, 5]
+Here is the VeryLongInt: [3, 5]
+
+The line is: VeryLongInt   	
+Here is the VeryLongInt: []
+
+The line is: VeryLongInt 56?7	
+Here is the VeryLongInt: [5, 6, 7]
+
+The line is: toString		
+Here is the VeryLongInt: [5, 6, 7]
+
+The line is: add 100 		

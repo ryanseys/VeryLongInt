@@ -1,0 +1,3 @@
+VeryLongInt 1
+factorial 125
+fibonacci 800
